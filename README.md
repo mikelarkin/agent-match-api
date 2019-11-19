@@ -171,7 +171,7 @@ Be sure that all existing tests pass, and any new classes added have meaningful 
 
 `rails test`
 
-Ensure that you have atleast 80% code coverage
+Ensure that you have at least 80% code coverage
 
 `open coverage/index.html`
 
